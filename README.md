@@ -1,4 +1,4 @@
-# **Azimo - HoloSea Engine** 🌊💡  
+# **Azimo - HoloSea Engine** 🌊💡  laucher 26/11/2024
 
 ### 🚀 **Welcome to Azimo**  
 Azimo is a next-generation **HoloSea engine** built to transform decentralized ecosystems through the power of **neural networks**, **Seal Learning**, and **Self Sea chain links**. Designed for **HoloFi**, **DeFi**, and proprietary **dApps**, Azimo empowers developers with cutting-edge tools for high-performance AI and machine learning applications.  
